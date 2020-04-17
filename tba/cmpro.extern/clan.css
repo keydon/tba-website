@@ -1,0 +1,139 @@
+.info { color: #000000; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.info2 { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.schrift10 { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.schrift10_2 { color: #000000; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.schrift10alt { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.titel8  { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.titel10 { color: #516482; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+
+.titel11 { color: #516482; font-size: 11pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+
+.schrift8 { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.schrift8_2 { color: #000000; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.schrift8alt { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.schrift8dark { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+
+.won8 { color: #009900; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.draw8 { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.loss8 { color: #CC0000; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+
+.zensur { color: #999999; font-size: 8pt; font-weight: bold; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.logofont { color: #999999; font-size: 30pt; font-family: "Monotype Corsiva", Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.error { color: #999999; font-size: 8pt; font-weight: bold; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+
+.zitat8 { color: #999999; font-size: 8pt; border: 1px solid; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; }
+
+.code8 {	color: #999999; background-color: #FAFAFA; font-size: 8pt; border: 1px solid; border-color: #000; border 1px; font-family: Courier, Courier New, sans-serif; }
+
+
+.submit { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; border: thin outset; background-color: #4A4A4A; font-weight: normal; color: #000; border-color: #999999 #999999 #333333 #333333;}
+
+.field { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; background-color: #4A4A4A; color: #000; border: solid 1px; border-color: #999999 #999999 #333333 #333333; }
+
+.logonfield { font-family: Arial, Helvetica, sans-serif; width: 100px; font-size: 8pt; background-color: #003300; color: #000; border: solid 1px; border-color: #999999 #999999 #333333 #333333; }
+
+.tbox { font-family: Arial, Helvetica, sans-serif; width: 380px; font-size: 8pt; color: #000; background-color: #4A4A4A; border: solid 1px; border-color: #999999 #999999 #333333 #333333; }
+
+.sel { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #000; background-color: #4A4A4A; border: solid 1px; border-color: #999999 #999999 #333333 #333333; }
+
+.entry-topic {border-style:solid;border-width:1px; border-top-color:#7F8FCB;border-left-color:#7F8FCB;border-right-color:#354685;border-bottom-color:#354685}
+.entry-body {background-color:#2A2A2A;border-left-style:none;border-top-style:none;border-right-style:dashed;border-bottom-style:dashed;border-bottom-color:#4E63B9;border-right-color:#4E63B9;border-width:1px;}
+
+.backbox {background-color:#000000;}
+.backnormal {background-color:#000000;}
+
+table.rahmen {
+    caption-side: bottom;
+    border-collapse: collapse;
+    border: 1px solid silver;
+    width: 96%;
+    table-layout: fixed; }
+table.rahmen td, table.rahmen th {
+    border: 1px solid silver;
+    padding: 2px; }
+table.rahmen th {
+    background: rgb(150,210,150);
+    color: white; }
+
+/* #4E63B9 ori lila
+/* #31489E nochn lila
+/* #2a2a2a dunkles grau
+/* #4A4A4A helles grau
+/* Allgemeine Links (wenn bei einem Link keine explizite Definition erfolgt wird diese Klasse angewendet) */
+
+a:link  { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a:active  { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a:visited  { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a:hover { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration:underline;}
+
+
+/* Standardlinks (normale Schriftgrösse) */
+
+a.link10:link  { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link10:active  { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link10:visited  { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link10:hover { color: #999999; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: underline;}
+
+/* Standardlinks (normale Schriftgrösse) */
+
+a.link10_2:link  { color: #000000; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link10_2:active  { color: #000000; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link10_2:visited  { color: #000000; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link10_2:hover { color: #000000; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: underline;}
+
+
+/* Standardlinks (kleinere Schriftgrösse) */
+
+a.link8:link  { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8:active  { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8:visited  { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8:hover { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: underline;}                   
+
+/* Links fuer Geastebuch, klein */
+
+a.link8_gb:link  { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8_gb:active  { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8_gb:visited  { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8_gb:hover { color: #999999; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: underline;}                   
+
+
+a.link8dark:link  { color: #000000; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8dark:active  { color: #000000; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8dark:visited  { color: #000000; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; }
+
+a.link8dark:hover { color: #000000; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: underline;}
